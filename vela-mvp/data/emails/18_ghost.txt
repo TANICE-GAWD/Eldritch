@@ -1,0 +1,23 @@
+From: Nathan Obi <nathan.obi@nathdev.io>
+To: Petra Wolfram <p.wolfram@synthlabs.de>
+Date: Wed, 7 May 2025 16:50:00 +0100
+Subject: Re: Technical Screen — Frontend Engineer
+
+Hi Petra,
+
+Thanks for the call earlier today — I really enjoyed learning more about the role and the team at SynthLabs. The product direction sounds genuinely exciting.
+
+As requested, I'm sending along my GitHub (github.com/nathanobi), a link to the side project I mentioned (https://stackblitz.com/edit/nathdev-canvas-demo), and my availability for the next step:
+
+I'm generally free:
+- Monday–Wednesday, 9 AM–1 PM CET
+- Fridays all day
+
+Let me know whenever you'd like to move forward. Happy to prioritize this process.
+
+Best,
+Nathan
+
+[Read receipt: May 7, 2025 5:03 PM CET]
+
+[No reply as of May 12, 2025 — 5 business days elapsed]

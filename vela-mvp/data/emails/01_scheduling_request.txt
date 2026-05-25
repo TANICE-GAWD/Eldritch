@@ -1,0 +1,56 @@
+From: Priya Nair <priya.nair@talentbridge.io>
+To: Jordan Alcott <jordan.alcott@devcraft.co>
+Date: Mon, 12 May 2025 09:14:22 -0700
+Subject: Interview Opportunity — Senior Backend Engineer at DevCraft
+
+Hi Jordan,
+
+I'm Priya, a recruiter at DevCraft. I came across your profile on LinkedIn and was really impressed by your work on distributed systems at Lattice. We're currently hiring for a Senior Backend Engineer on our infrastructure team, and I think you'd be a strong fit.
+
+Would you be open to a 30-minute intro call this week or next? I'm flexible and happy to work around your schedule.
+
+Let me know if any of the following slots work for you (all times Pacific):
+- Tuesday, May 13 @ 10:00 AM
+- Wednesday, May 14 @ 2:00 PM
+- Thursday, May 15 @ 11:00 AM
+
+If none of those work, just send me a few times that do and I'll make it happen.
+
+Looking forward to connecting!
+
+Best,
+Priya Nair
+Technical Recruiter | DevCraft
+priya.nair@talentbridge.io
+(415) 882-3301
+
+---
+
+From: Jordan Alcott <jordan.alcott@devcraft.co>
+To: Priya Nair <priya.nair@talentbridge.io>
+Date: Mon, 12 May 2025 11:47:09 -0700
+Subject: Re: Interview Opportunity — Senior Backend Engineer at DevCraft
+
+Hi Priya,
+
+Thanks for reaching out — this sounds interesting! I'm definitely open to learning more about the role.
+
+Wednesday the 14th at 2 PM PT works well for me. Feel free to send over a calendar invite with dial-in info.
+
+Talk soon,
+Jordan
+
+---
+
+From: Priya Nair <priya.nair@talentbridge.io>
+To: Jordan Alcott <jordan.alcott@devcraft.co>
+Date: Mon, 12 May 2025 12:03:55 -0700
+Subject: Re: Interview Opportunity — Senior Backend Engineer at DevCraft
+
+Perfect! I just sent a Google Calendar invite with a Zoom link to your email. Let me know if you have any trouble accessing it.
+
+Really looking forward to chatting on Wednesday. In the meantime, feel free to check out our engineering blog — we just published a post on our new observability stack that might give you a sense of the kinds of problems we're working on.
+
+See you Wednesday!
+
+Priya

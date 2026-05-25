@@ -1,0 +1,44 @@
+From: calendar-noreply@google.com
+To: Casey Nguyen <casey.nguyen@brightpath.dev>
+Date: Wed, 7 May 2025 15:01:00 -0700
+Subject: Invitation: Technical Interview w/ BrightPath Engineering @ Thu May 15, 2025 2pm – 3:30pm (PDT)
+
+You have been invited to the following event.
+
+Title: Technical Interview w/ BrightPath Engineering
+When: Thursday, May 15, 2025 · 2:00 – 3:30pm (Pacific Daylight Time)
+Where: Zoom — https://brightpath.zoom.us/j/93812744290 (Passcode: 847201)
+Who: Casey Nguyen <casey.nguyen@brightpath.dev>, Marisol Fuentes <m.fuentes@brightpath.dev>, Raj Pillai <r.pillai@brightpath.dev>
+
+---
+
+From: Casey Nguyen <casey.nguyen@brightpath.dev>
+To: Marisol Fuentes <m.fuentes@brightpath.dev>
+Date: Wed, 7 May 2025 15:14:32 -0400
+Subject: Re: Invitation: Technical Interview w/ BrightPath Engineering
+
+Hi Marisol,
+
+Got the invite — I've accepted and it's on my calendar. Really looking forward to Thursday!
+
+Quick question: is there anything specific I should have ready to share (GitHub, portfolio, etc.) or just come prepared to code?
+
+Thanks,
+Casey
+
+---
+
+From: Marisol Fuentes <m.fuentes@brightpath.dev>
+To: Casey Nguyen <casey.nguyen@brightpath.dev>
+Date: Wed, 7 May 2025 12:35:00 -0700
+Subject: Re: Invitation: Technical Interview w/ BrightPath Engineering
+
+Hi Casey!
+
+Glad you got it. No need to prepare anything to share in advance — we'll do a live problem on CoderPad (they'll send you a link at the start of the call). Just bring yourself and your preferred browser.
+
+The structure will be: 15 min intro → 60 min coding → 15 min Q&A.
+
+See you Thursday at 2 PM PT!
+
+Marisol

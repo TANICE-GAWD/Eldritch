@@ -1,0 +1,36 @@
+From: hiring@crescendohealth.com
+To: Finn Johansson <finn.j@posteo.net>
+Date: Wed, 14 May 2025 08:45:00 -0600
+Subject: Update on your application — Clinical Data Analyst
+
+Dear Finn,
+
+Thank you for taking the time to interview with our team at Crescendo Health. We genuinely enjoyed our conversations and were impressed by your background in health informatics.
+
+After careful consideration, we've decided to move forward with another candidate whose experience more closely matches the technical requirements for this role at this time. This was a difficult decision given the strength of the applicant pool.
+
+We'd like to stay connected — your skills in SQL and EHR data pipelines are exactly what we look for as we grow our analytics team. We'll keep your profile on file and hope to revisit this conversation in the future.
+
+Thank you again for your time and interest in Crescendo Health. We wish you the very best in your search.
+
+Sincerely,
+The Crescendo Health Talent Team
+hiring@crescendohealth.com
+
+---
+
+From: Finn Johansson <finn.j@posteo.net>
+To: hiring@crescendohealth.com
+Date: Wed, 14 May 2025 16:30:00 +0200
+Subject: Re: Update on your application — Clinical Data Analyst
+
+Hello,
+
+Thank you for the update and for the kind words. I'm of course disappointed, but I appreciate the transparency and the thoughtful way you've handled the process throughout.
+
+I'd genuinely welcome staying in touch. If another relevant opening comes up in the next year or so, please feel free to reach back out.
+
+Best of luck with the new hire!
+
+Best,
+Finn

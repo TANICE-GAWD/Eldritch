@@ -1,0 +1,56 @@
+From: Rachel Kim <rachel.kim@sprinthr.com>
+To: Damien Laroche <damien.laroche@icloud.com>
+Date: Tue, 13 May 2025 10:00:00 -0500
+Subject: Interview Scheduling — Data Engineer, Sprint Analytics
+
+Hi Damien,
+
+We'd like to move you forward to the next round! This would be a 90-minute technical interview with two of our senior engineers. We have the following slots:
+
+- Thursday, May 15 @ 9:00 AM CT
+- Friday, May 16 @ 1:00 PM CT
+- Monday, May 19 @ 10:00 AM CT
+
+Please let me know your preference and I'll get things locked in.
+
+Best,
+Rachel Kim
+Recruiting | Sprint Analytics
+
+---
+
+From: Damien Laroche <damien.laroche@icloud.com>
+To: Rachel Kim <rachel.kim@sprinthr.com>
+Date: Tue, 13 May 2025 18:45:00 +0200
+Subject: Re: Interview Scheduling — Data Engineer, Sprint Analytics
+
+Hi Rachel,
+
+Congratulations to me, I guess! Ha — thank you so much.
+
+I'm in Paris (CEST, UTC+2) so I just want to double-check the conversion:
+- Thu May 15, 9 AM CT = 4 PM CEST — doable but a bit tight
+- Fri May 16, 1 PM CT = 8 PM CEST — that's too late for me unfortunately
+- Mon May 19, 10 AM CT = 5 PM CEST — this would work well
+
+Could I go with Monday the 19th at 10 AM CT / 5 PM CEST?
+
+Also, would it be possible to get any materials or an overview of what the technical portion will cover so I can prepare appropriately?
+
+Merci beaucoup,
+Damien
+
+---
+
+From: Rachel Kim <rachel.kim@sprinthr.com>
+To: Damien Laroche <damien.laroche@icloud.com>
+Date: Tue, 13 May 2025 12:30:00 -0500
+Subject: Re: Interview Scheduling — Data Engineer, Sprint Analytics
+
+Hi Damien,
+
+Monday the 19th at 10 AM CT / 5 PM CEST it is! And absolutely — I'll email you a prep guide tomorrow. Expect questions on SQL optimization, pipeline architecture (we use Airflow + dbt), and a live coding section in Python.
+
+Calendar invite coming your way shortly. Bon courage with the prep!
+
+Rachel
