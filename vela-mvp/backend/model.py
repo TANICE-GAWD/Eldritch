@@ -5,12 +5,9 @@ import os
 from pydantic_ai.models.openai import OpenAIModel
 from pydantic_ai.providers.openai import OpenAIProvider
 
-_proxy_url = os.environ.get("AI_VERCEL_PROXY_URL", "")
-_base_url = _proxy_url.replace("/chat/completions", "").rstrip("/")
-
 _provider = OpenAIProvider(
-    base_url=_base_url,
-    api_key=os.environ.get("AI_VERCEL_PROXY_KEY", ""),
+    base_url="https://api.groq.com/openai/v1",
+    api_key=os.environ.get("GROQ_API_KEY", ""),
 )
 
-claude = OpenAIModel("anthropic/claude-sonnet-4-6", provider=_provider)
+claude = OpenAIModel("llama-3.3-70b-versatile", provider=_provider)
