@@ -10,4 +10,4 @@ _provider = OpenAIProvider(
     api_key=os.environ.get("GROQ_API_KEY", ""),
 )
 
-claude = OpenAIModel("llama-3.3-70b-versatile", provider=_provider)
+claude = OpenAIModel("meta-llama/llama-4-scout-17b-16e-instruct", provider=_provider)

@@ -50,7 +50,9 @@ async def main() -> None:
         print(f"No email files found in {DATA_DIR}")
         return
 
-    results = await asyncio.gather(*[run_case(f) for f in files])
+    results = []
+    for f in files:
+        results.append(await run_case(f))
 
     correct_intent = 0
     total_slots = 0
