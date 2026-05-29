@@ -3,4 +3,5 @@ pydantic==2.10.4
 python-dotenv==1.0.1
 supabase==2.10.0
 ortools==9.11.4210
-pydantic-ai==0.0.14
+pydantic-ai==0.0.55
+griffe>=1.0
