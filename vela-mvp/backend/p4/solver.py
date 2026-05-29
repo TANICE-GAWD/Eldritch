@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 
 from ortools.sat.python import cp_model
 
@@ -14,13 +14,19 @@ from backend.p4.models import (
 from backend.p5.models import TimeSlot
 
 
+def _utc(dt: datetime) -> datetime:
+    if dt.tzinfo is None:
+        return dt.replace(tzinfo=timezone.utc)
+    return dt.astimezone(timezone.utc)
+
+
 def _slots_overlap(a: TimeSlot, b: TimeSlot, buffer_minutes: int = 15) -> bool:
     buffer = timedelta(minutes=buffer_minutes)
-    return a.start < b.end + buffer and b.start < a.end + buffer
+    return _utc(a.start) < _utc(b.end) + buffer and _utc(b.start) < _utc(a.end) + buffer
 
 
 def _slots_same_day(a: TimeSlot, b: TimeSlot) -> bool:
-    return a.start.date() == b.start.date()
+    return _utc(a.start).date() == _utc(b.start).date()
 
 
 def solve(request: ScheduleRequest, penalty_weights: dict[str, int] | None = None) -> ScheduleResult:

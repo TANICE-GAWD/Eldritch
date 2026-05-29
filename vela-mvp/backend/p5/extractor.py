@@ -40,8 +40,13 @@ Thread: "Sounds good, locked in for Tuesday 3pm EST. Calendar invite sent."
 Thread: [Email sent 3 days ago, no reply]
 → intent: ghost, proposed_slots: [], next_action: "Follow up via alternate channel"
 
-Be precise with timezones when mentioned. Use UTC if unknown.
-Return confidence < 0.6 for vague slots like "sometime next week".
+CRITICAL datetime rules:
+- ALWAYS output start and end as ISO 8601 strings: "2026-05-21T14:00:00" — never natural language like "next Monday at 10am"
+- ALWAYS include both start and end. If only a start is mentioned, add 1 hour for end.
+- If the date is relative ("next Monday", "Thursday"), resolve it to an absolute date. Assume today is 2026-05-28 if no reference date is available.
+- Use UTC if no timezone is mentioned. Format: "2026-05-21T14:00:00"
+- ALWAYS include the email field for participants. Use empty string "" if unknown.
+- Return confidence < 0.6 for vague slots like "sometime next week".
 """
 
 extractor_agent = Agent(

@@ -55,3 +55,36 @@ python -m backend.p5.eval
 - Google OR-Tools CP-SAT
 - Supabase (state storage)
 - Next.js 14 + Tailwind (schedule grid UI)
+
+
+curl -s -X POST http://localhost:8000/pipeline/run \
+    -H "Content-Type: application/json" \
+    -d '{
+      "email_threads": [
+        "Hi Sam, are you free Thursday at 2pm for an interview? - Jordan at Acme",
+        "Can we schedule a call next Monday at 10am? Thanks, Priya"
+      ],
+      "interviewers": [
+        {
+          "id": "iv1", "name": "Maya Patel",
+          "available_slots": [
+            {"start": "2026-05-21T14:00:00", "end": "2026-05-21T15:00:00", "confidence": 1.0, "timezone": "UTC"},
+            {"start": "2026-05-25T10:00:00", "end": "2026-05-25T11:00:00", "confidence": 1.0, "timezone": "UTC"}
+          ],
+          "max_interviews_per_day": 3
+        }
+      ],
+      "soft_constraints": []
+    }' | python -m json.tool
+
+
+
+
+
+
+
+
+
+
+
+curl -s http://localhost:8000/jobs/<job_id_here> | python -m json.tool
